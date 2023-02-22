@@ -1,2 +1,1 @@
-# CdacProject
-asynchronous publisher subscriber system
+# Asynchronous publisher subscriber system
